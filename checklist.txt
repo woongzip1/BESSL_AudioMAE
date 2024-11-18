@@ -1,0 +1,6 @@
+
+model 불러오고 load weights를 했는가 (feature_encoder)
+
+SEANet feature가 GT에서 뽑혔는가 (cond 주니까 괜찮)
+
+FiLM Generator를 무식한 FC를 쓰자니 768*8 dim 이 너무 커지는 문제 발생 -> 5M

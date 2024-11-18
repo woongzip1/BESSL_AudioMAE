@@ -1,0 +1,7 @@
+# *.py
+# *.ipynb
+weights/
+kmeans/
+ckpt*/
+checklist.txt
+
