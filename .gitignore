@@ -1,7 +1,11 @@
 # *.py
 # *.ipynb
 weights/
-kmeans/
+
+kmeans/K1*
+kmeans/K2*
+kmeans/K4*
+
 ckpt*/
 checklist.txt
 ! kmeans/K64_MAE.pkl
